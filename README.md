@@ -2,7 +2,7 @@
 
 ## ✨ Features
 
-### 👩 Survivor Character
+### 🦸🏻‍♀️🩷 Survivor Character
 - Female survivor.
 - Animated character movement.
 - Special visual effects for shields, rapid fire and invincibility.
@@ -109,4 +109,4 @@ PinkPowerSurvivor/
 
 
 ---
-**Survive the waves. Defeat the zombies. Protect the city! 🎀🧟**
+**Survive the waves. Defeat the zombies. Protect the city! 🩷🧟**
